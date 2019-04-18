@@ -1,0 +1,13 @@
+__pycache__
+log/
+data/*/train
+data/*/valid
+*.zip
+test_*/
+.idea
+*.swp
+*.swo
+videos/*/*.png
+videos/*.mkv
+
+dump_*/
