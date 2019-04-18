@@ -3,7 +3,7 @@
 Yunzhu Li, Jiajun Wu, Jun-Yan Zhu, Joshua B. Tenenbaum, Antonio Torralba, Russ Tedrake
 
 **ICRA 2019**
-[[website]](http://propnet.csail.mit.edu/) [[paper]](https://arxiv.org/abs/1809.11169) [[video]](https://youtu.be/ZAxHXegkz48)
+[[website]](http://propnet.csail.mit.edu/) [[paper]](http://propnet.csail.mit.edu/propnet-paper.pdf) [[video]](https://youtu.be/ZAxHXegkz48)
 
 Demo
 ----
